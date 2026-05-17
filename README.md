@@ -104,17 +104,6 @@ src/
 
 ---
 
-## 📸 Screenshots
-
-> Add application screenshots here
-
-Suggested screenshots:
-- Login Page
-- Dashboard Overview
-- Candidate Management
-- Vote Input Form
-- Sainte-Laguë Result
-- Regional Analytics
 
 ---
 
