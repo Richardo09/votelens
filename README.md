@@ -200,7 +200,7 @@ Unauthorized commercial use, political manipulation, or misuse of election-relat
 Developed by Richardo
 
 - GitHub: https://github.com/Richardo09
-- Portfolio: https://your-portfolio-url.com
+- Portfolio: https://richardobram.vercel.app
 
 ---
 
